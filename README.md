@@ -1,2 +1,1 @@
-# typescript-tips-tricks-and-challenges
-typescript tips, tricks, and challenges
+# TypeScript tips, tricks, and challenges
